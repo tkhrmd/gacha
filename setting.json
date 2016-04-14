@@ -1,0 +1,88 @@
+{
+  "classes": [{
+    "weight": 8900,
+    "filter": {
+      "group": "N"
+    }
+  }, {
+    "weight": 1000,
+    "filter": {
+      "group": "R"
+    }
+  }, {
+    "weight": 50,
+    "filter": {
+      "group": "SR"
+    }
+  }, {
+    "weight": 50,
+    "filter": {
+      "item_weights": {
+        "14": 1000,
+        "15": 1000
+      }
+    }
+  }],
+  "items": {
+    "1": {
+      "name": "佐藤",
+      "group": "N"
+    },
+    "2": {
+      "name": "鈴木",
+      "group": "N"
+    },
+    "3": {
+      "name": "高橋",
+      "group": "N"
+    },
+    "4": {
+      "name": "田中",
+      "group": "N"
+    },
+    "5": {
+      "name": "伊藤",
+      "group": "N"
+    },
+    "6": {
+      "name": "椎野",
+      "group": "R"
+    },
+    "7": {
+      "name": "稲本",
+      "group": "R"
+    },
+    "8": {
+      "name": "与那嶺",
+      "group": "R"
+    },
+    "9": {
+      "name": "草場",
+      "group": "R"
+    },
+    "10": {
+      "name": "一柳",
+      "group": "R"
+    },
+    "11": {
+      "name": "小楠",
+      "group": "SR"
+    },
+    "12": {
+      "name": "杉元",
+      "group": "SR"
+    },
+    "13": {
+      "name": "藤坂",
+      "group": "SR"
+    },
+    "14": {
+      "name": "久岡",
+      "group": "SR"
+    },
+    "15": {
+      "name": "虻川",
+      "group": "SR"
+    }
+  }
+}
